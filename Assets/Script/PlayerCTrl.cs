@@ -107,4 +107,5 @@ public class PlayerCTrl : MonoBehaviour {
 			amountI2 += 1;
 		}
 	}
+	//test
 }
